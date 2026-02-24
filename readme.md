@@ -119,6 +119,10 @@ This section provides a detailed walkthrough of the code organized by the corres
     *   Run `ce/ce.m` for the first route.
     *   Run `im/im.m` for the second route.
 
+## Refactored Version
+
+A refactored version of this codebase with improved code organization, unified interfaces, comprehensive documentation, and unit tests is available at: **[hsl-refactored](https://github.com/zzzhangxy98/hsl-refactored)**.
+
 ## References
 
 Please cite the following paper if you use this code in your research:
